@@ -1,4 +1,4 @@
- # scorEpochs - Python version
+ # Scorepochs - Python version
 This is the Python version of the tool
 
 Developed on Python 3.6
